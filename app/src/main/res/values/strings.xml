@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Арифметика</string>
+    <string name="example_text">10-6=</string>
+    <string name="hint_text">Напиши ответ</string>
+    <string name="button_text">Проверить</string>
+    <string name="correct_answer">Правильно!</string>
+    <string name="wrong_answer">Неправильно :(</string>
+    <string name="try_again">ЕЩЕ РАЗ</string>
+</resources>
